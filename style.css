@@ -130,8 +130,10 @@
 .box-backround-color{
     background-image: url("images/background.png"),linear-gradient(40deg, rgb(14, 12, 12), rgb(15, 6, 6));
     color: aliceblue;
+    padding-bottom: 50px;
 }
 .footer-cntenar{
     background-color: black;
     width: 100%;
+
 }
