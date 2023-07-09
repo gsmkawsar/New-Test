@@ -31,7 +31,7 @@
 }
 
 .hader-img{
-    width: 400px;
+    width: 300px;
 }
 
 .hader-contenar{
@@ -45,9 +45,7 @@
 
 }
 
-.hader-text{
 
-}
 
 .titel{
     font-size: 60px;
@@ -66,10 +64,22 @@
 .development{
     font-size: 20px;
 }
+
+.about{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 54px;
+    font-weight: bold;
+}
+
 .About-contenar{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-around;
     flex-direction: row-reverse;
-    padding: 50px;
+    align-items: center;
+
+}
+
+.content{
+    padding-bottom: 20px;
 }
